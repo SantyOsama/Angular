@@ -1,0 +1,18 @@
+/* nav bar style  */
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show,
+.nav-link:focus,
+.nav-link:hover {
+  color: var(--accent-color);
+}
+
+/* category style */
+iconify-icon.category-icon {
+  color: #dead6f99;
+  font-size: 100px;
+  transition: all 0.3s ease-in;
+}
+
+a.categories-item:hover iconify-icon.category-icon {
+  color: #dead6f;
+}

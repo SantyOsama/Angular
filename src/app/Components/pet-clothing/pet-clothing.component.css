@@ -1,0 +1,17 @@
+/* pet clothing */
+.card {
+  --bs-card-inner-border-radius: none;
+  --bs-card-bg: transparent;
+  background-color: transparent;
+  border: none;
+}
+
+a.btn-cart {
+  border-radius: 0.25rem;
+  border: 1px solid rgba(65, 64, 62, 0.2);
+}
+
+a.btn-wishlist {
+  border-radius: 0.25rem;
+  border: 1px solid rgba(65, 64, 62, 0.2);
+}
